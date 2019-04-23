@@ -9,4 +9,5 @@ File names with a brief description of their contents and purpose.
 - This contains the most up-to-date information as of April 22, 2019.
 
 ### genetic_algorithm.py
-- This is a python script 
+- This is a python script that generates the optimal parameters for a feed forward densly connected neural network.
+- The parameters are generated using a genetic algorithm. 
